@@ -3,7 +3,7 @@
   * Car speed will increse after 400 miles
   * There are five stages and 3 lifes
   * To win the game player have to avoid the obstacle that will appear randomly
-  * To make the game easier for player with every next stage the number of obstacle will be reduced but to keep it intresting with every coming stage the speed od car will increase.
+  * To make the game easier for player with every next stage the number of obstacle will be reduced but to keep it intresting with every coming stage the speed of car will increase.
   
 # HAPPY GAMING
 
