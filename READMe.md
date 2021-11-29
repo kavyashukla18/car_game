@@ -5,7 +5,7 @@
   * To win the game player have to avoid the obstacle that will appear randomly
   * To make the game easier for player with every next stage the number of obstacle will be reduced but to keep it intresting with every coming stage the speed od car will increase.
   
-  ![Car Game](https://user-images.githubusercontent.com/69622475/143897876-68b14585-8362-4a6c-ba99-04e13261b0b9.png)
-
 # HAPPY GAMING
+
+![Car Game](https://user-images.githubusercontent.com/69622475/143897876-68b14585-8362-4a6c-ba99-04e13261b0b9.png)
  
